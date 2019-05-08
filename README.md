@@ -1,2 +1,2 @@
 # Backend_Projects_using_Django
-Django Projects
+Backend Web Development Project using python framework Django 2.0 
