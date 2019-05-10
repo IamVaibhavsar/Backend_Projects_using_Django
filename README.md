@@ -48,7 +48,7 @@ Personalised Blog Website of Static pages using Backend and interaction with dat
 # CRUD Blog- Create, Read, Update and Delete
 in the above project we added the functionality of CRUD- Create, Read, Update and Delete using databases and forms.
 
-[CRUD](https://github.com/IamVaibhavsar/Backend_Projects_using_Django/tree/master/06CRUD-Blog "CRUD Blog")
+[See the Project](https://github.com/IamVaibhavsar/Backend_Projects_using_Django/tree/master/06CRUD-Blog "CRUD Blog")
 
 
 To Add the Blog click on `Save` button:<br>
@@ -75,7 +75,7 @@ click on `confirm` button
 Adding the Authentication like login, logout, signup and Contect restrictions facility in the above Blog Application.
 
 To Create the new Account:<br>
-Navigate upto project directory and type following commands in terminal
+Navigate upto project directory and type following commands in terminal.
 ```cmd
 /python manage.py makemigrations website
 
@@ -102,7 +102,7 @@ Now you can access the content.
 
 ![Loggedin](https://github.com/IamVaibhavsar/Backend_Projects_using_Django/blob/master/08Authentication/loggedIn.png "Loggedin")
 
-Click on `Logout` to logout from your account.
+Click on `Logout` to logout from your account and home page is displayed.
 
 ![Loggedout](https://github.com/IamVaibhavsar/Backend_Projects_using_Django/blob/master/08Authentication/loggedOut.png "Loggedout")
 
